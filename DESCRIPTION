@@ -2,8 +2,8 @@ Package: FSSF
 Type: Package
 Title: Generate Fully-Sequential Space-Filling Designs Inside a Unit
         Hypercube
-Version: 0.1.0
-Date: 2019-12-30
+Version: 0.1.1
+Date: 2020-02-03
 Author: Boyang Shang and Daniel W. Apley
 Maintainer: Boyang Shang <boyangshang2015@u.northwestern.edu>
 Copyright: ANN library is copyright University of Maryland and Sunil
@@ -14,6 +14,6 @@ Depends: R (>= 3.3)
 Imports: Rcpp (>= 0.12.10)
 LinkingTo: Rcpp, RcppArmadillo
 NeedsCompilation: yes
-Packaged: 2020-01-30 09:02:36 UTC; boyangshang
+Packaged: 2020-02-04 02:59:58 UTC; boyangshang
 Repository: CRAN
-Date/Publication: 2020-01-31 13:40:02 UTC
+Date/Publication: 2020-02-05 12:10:07 UTC
